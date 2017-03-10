@@ -1,0 +1,10 @@
+Please note following things:
+- I faced chalange to avoid captcha. Everytime I run my tests after a short break inbetween then I always redirected to captcha page.
+- I used the BDD aproach and wrote the feature file to write my scenarios and then automated them
+- Feature files are stored in the "Features" folder, and stepdefinitions are in the Stepdefinition folder
+- I already know that there is a lot of room for refactoring the tests ( for e.g adding a wait function and not use implicit wait)
+- I am also missing some scenarios like testing the autocomplete functionality. Will try to do it in meantime
+- Please give me feedback about the test approach
+-
+
+Thank you very much.
